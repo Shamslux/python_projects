@@ -4,7 +4,7 @@
 
 ## Objectives
 
-As a ata Engineer I am seeking develop more and more my skills with programming languages and I'm creating this repository to share some of my work with them. In this particular case, this is a repository about the Python scripts that I am creating for training.
+As a Data Engineer I am seeking develop more and more my skills with programming languages and I'm creating this repository to share some of my work with them. In this particular case, this is a repository about the Python scripts that I am creating for training.
 
 # Script 1 - Extracting data from IBGE
 
